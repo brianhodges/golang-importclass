@@ -1,0 +1,15 @@
+
+Name: USA
+Population: 350 million
+Best States: New York, Virginia, California, Florida, Hawaii
+Top State Count: 5
+Best City: Los Angeles
+Los Angeles Population: 4 million
+
+Name: Mexico
+Population: 127 million
+Best States: Durango, Puebla, Guerrero, Quintana Roo
+Top State Count: 4
+Best City: Cancun
+Cancun Population: 700,000
+
